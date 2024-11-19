@@ -352,6 +352,7 @@ footer .bottom-bar .left li:nth-of-type(1):after {
 /* --- BOUTONS --- */
 
 .button-blue,
+.button-blue-world,
 .btn-next,
 #form-contact input.button,
 .top-bar-section .button.left,
@@ -370,6 +371,7 @@ section.connexion input.button,
 }
 
 .button-blue:hover,
+.button-blue-world:hover,
 .btn-next:hover,
 #form-contact input.button:hover,
 .top-bar-section .button.left:hover,
@@ -416,7 +418,9 @@ section.connexion input.button:hover,
 .button-blue a {
   color: #000;
 }
-
+.button-blue-world a {
+  color: #000;
+}
 /* --- BANNERS --- */
 
 .banner {
