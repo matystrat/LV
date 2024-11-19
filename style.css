@@ -374,12 +374,11 @@ section.connexion input.button,
   background-color: #fff0 !important;
   color: #000 !important;
   border: 5px solid #6ed7e5 !important;
-  font-size: 30px;
+  font-size: 40px;
   letter-spacing: 0.6px;
   line-height: 40px;
   text-align: center;
   text-transform: uppercase;
-  font-weight: bold;
 }
 
 .button-blue:hover,
